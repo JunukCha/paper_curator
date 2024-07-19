@@ -1,0 +1,1 @@
+streamlit run summary_paper.py
